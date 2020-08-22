@@ -1,0 +1,9 @@
+#
+# system.prop for ef51
+#
+
+# default local
+persist.sys.timezone=Asia/Seoul
+persist.sys.language=ko
+persist.sys.region=KR
+persist.sys.country=KR
